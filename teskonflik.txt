@@ -1,1 +1,1 @@
-file tes konflik di branch main
+ini akan jadi file konflik
