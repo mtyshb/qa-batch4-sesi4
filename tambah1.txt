@@ -1,0 +1,1 @@
+tambahin file baru "tambah1.txt"
