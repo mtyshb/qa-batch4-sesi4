@@ -1,0 +1,1 @@
+disini tambah file "tambah2.txt"
